@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fff</color>
+    <color name="colorPrimaryDark">#ff415fdd</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="black">#D000</color>
+    <color name="white">#ffffff</color>
+    <color name="text_hint">#9b9b9b</color>
+    <color name="app_color">#21d7ef</color>
+    <color name="light_gray">#fbf7f6</color>
+    <color name="dark_gray">#d5d5d5</color>
+    <color name="text_color_home">#666666</color>
+    <color name="button_color">#04c18e</color>
+    <color name="blue_home">#304fd0</color>
+    <color name="edittext_hint">#ffe6e6e6</color>
+    <color name="action_bar">#ff415fdd</color>
+    <color name="line_seperator">#e4e4e4</color>
+    <color name="phone_code">#4a4a4a</color>
+    <color name="check_box">#d4d4d4</color>
+    <color name="check_color">#34ceac</color>
+
+    <color name="transparent">#00000000</color>
+    <!-- card colors -->
+    <color name="card_background">#ffffff</color>
+    <color name="home_background_gray">#f8f8f8</color>
+    <color name="card_shadow_1">#d4d4d4</color>
+    <color name="card_shadow_2">#dddddd</color>
+    <color name="grad_start_color">#cc5d65</color>
+    <color name="grad_end_color">#C45075</color>
+    <color name="line_color">#882A49</color>
+    <color name="text_home_color">#ffd4d2</color>
+    <color name="green">#11C104</color>
+    <color name="chip_highlight">#97882A49</color>
+    <color name="color_dark_grey">#8f8e8f</color>
+    <color name="bg_screen">#f8f8f8</color>
+
+</resources>

@@ -1,0 +1,214 @@
+<resources>
+    <string name="app_name">CoLiving</string>
+    <string name="please_connect">Please connect to internet and try again!</string>
+    <string name="no_internet">No Internet Connection</string>
+    <string name="error_socket_timeout">Socket Timeout Exception</string>
+    <string name="error_parse_exception">Could not fetch Data.</string>
+    <string name="error_internet">Please check your network connection and try again later.</string>
+    <string name="title_activity_login">Sign in</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="signup">Sign Up</string>
+    <string name="name">Name</string>
+    <string name="email">Email address</string>
+    <string name="phone">Phone no</string>
+    <string name="password">Password</string>
+    <string name="agree">I agree <font fgcolor='#ff764d'>T&amp;C</font></string>
+    <string name="visit">You are planning to Visit</string>
+    <string name="house">That Wonderful House</string>
+    <string name="day">Day</string>
+    <string name="time">Time</string>
+    <string name="today">Today</string>
+    <string name="tomrrow">Tomorrow</string>
+    <string name="other_day">Other Date</string>
+    <string name="continue_">Continue</string>
+    <string name="schedule">Schedule</string>
+    <string name="place">Place</string>
+    <string name="verify">Verify Phone</string>
+    <string name="date">Date &amp; Time</string>
+    <string name="waiting">Waiting for OTP</string>
+    <string name="visit_confirm">Yess! Your visit has been \n confirmed</string>
+    <string name="verify_now">Verify</string>
+    <string name="retry_otp">Retry</string>
+    <string name="one_step">You are just one step away</string>
+    <string name="verify_later">Skip and verify later</string>
+    <string name="confirmation">Confirmation</string>
+    <string name="go_to">Go to Dashboard</string>
+    <string name="id">Transaction ID</string>
+    <string name="book">Book</string>
+    <string name="single_room">Single Room</string>
+    <string name="twin_room">Twin Room</string>
+    <string name="shared_room">Shared Rooms</string>
+    <string name="select_room_type">Select Room Type</string>
+    <string name="status">Status</string>
+    <string name="booking_info">Booking info</string>
+    <string name="process">Proceed &amp; Enter my details</string>
+    <string name="updating">We will be updating you on</string>
+    <string name="payment">Proceed to Payment</string>
+    <string name="move_in_date">Move in date</string>
+    <string name="card">Debit/Credit Card</string>
+    <string name="netbanking">Netbanking</string>
+    <string name="other_payment">Other Payment options</string>
+    <string name="paypal">PayPal - get 50% up to Rs 200</string>
+    <string name="mobikwik">MobiKwik 20 supercash</string>
+    <string name="pament_page">Payment Page</string>
+    <string name="visit_button">Visit</string>
+    <string name="planning">When are you planning to move in</string>
+    <string name="home_live">Liv your best life, starting today from Rs.6000/month</string>
+
+
+    <string name="Sign_Up_with_Email">Sign Up with Email</string>
+    <string name="verify_text">In order to serve you better we \n would like to verify your phone</string>
+    <string name="otp_text">You have signed up successfully.In order to serve you better we would like to verify your account.</string>
+    <string name="receive_otp">Enter the OTP</string>
+    <string name="receive_otp_mail">"Enter the otp you have received by mail</string>
+    <string name="your_contact">Your Contact Details</string>
+    <string name="schedule_confirm">Schedule and confirm</string>
+    <string name="success">Success</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email completions."
+    </string>
+    <string name="sector_2_hsr_layout">Sector 2, HSR Layout</string>
+    <string name="inr"><font fgcolor='#4a4a4a'>₹</font></string>
+    <string name="price_inr"> <font fgcolor='#4a4a4a'>₹ </font> <font fgcolor='#3d6587'>16,500</font> </string>
+    <string-array name="navigation_drawer_items_array">
+        <item>Connect</item>
+        <item>Fixtures</item>
+        <item>Table</item>
+    </string-array>
+
+    <!-- Kuhuk String -->
+    <string name="move_to_maps_activity">Move to Maps Activity</string>
+    <string name="hello_blank_fragment">hello_blank_fragment</string>
+    <string name="open_maps_fragment">Open Maps on Fragment</string>
+    <string name="search_results">Search Results</string>
+    <string name="bangalore">Bangalore</string>
+    <string name="hsr_layout">HSR Layout</string>
+
+    <!-- Kuhuk String -->
+
+    <string name="location_tag1">Sector 2</string>
+    <string name="google_maps_key">AIzaSyBmNONdM3iJYwIRpj1KRBghbS3XV4XpUzY</string>
+    <string name="location_tag2">HSR Layout</string>
+    <string name="includes_food">Includes Food</string>
+    <string name="price_per_bed">8,500/</string>
+    <string name="bed">Bed</string>
+    <string name="price_deposit">Deposit: 12000</string>
+    <string name="image_of_the_place_mentioned">Image of the place mentioned.</string>
+    <string name="from">From</string>
+    <string name="back_to_search">Back to search</string>
+    <string name="screen_3">Screen 3</string>
+    <string name="screen_4">Screen 4</string>
+    <string name="that_wonderful_house">That Wonderful House</string>
+    <string name="availability">Availability</string>
+    <string name="twin_rooms">Twin Rooms</string>
+    <string name="available">Available</string>
+    <string name="_8500_bed">8,500/Bed</string>
+
+    <string name="single_rooms">Single Rooms</string>
+    <string name="_16_500">16,500</string>
+    <string name="only_2_left">Only 2 left</string>
+    <string name="shared_rooms">Shared Rooms</string>
+    <string name="next_available_dec_25">Next Available Dec 25</string>
+    <string name="_6_500_bed">6,500/Bed</string>
+    <string name="amenities">Amenities</string>
+    <string name="sofa">Sofa</string>
+    <string name="wifi">Wifi</string>
+    <string name="television">Television</string>
+    <string name="washing_machine">Washing Machine</string>
+    <string name="maps">Maps</string>
+    <string name="rent_details">Rent Details</string>
+    <string name="other_terms">Other Terms</string>
+    <string name="user_dashboard">User Dashboard</string>
+    <string name="liv_24_7">24/7 Liv</string>
+    <string name="rs_8622">Rs. 8622</string>
+    <string name="pay_now">Pay now</string>
+    <string name="amount_due_nov_18">Amount Due - Nov 18</string>
+    <string name="upcoming_events">Upcoming Events</string>
+    <string name="register">Register</string>
+    <string name="where">Where</string>
+    <string name="dec_13_2018">date</string>
+    <string name="_10_30_am">time</string>
+    <string name="address">address</string>
+    <string name="get_direction">Get Direction</string>
+    <string name="my_visits">My Visits</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="past">Past</string>
+    <string name="review_your_schedule">Review your schedule</string>
+    <string name="property_name">That Wonderful House</string>
+    <string name="gallery">Gallery</string>
+    <string name="show_on_map">Show on map</string>
+    <string name="infinity">Infinity</string>
+    <string name="date_my_visits">Mar 13, 2019</string>
+    <string name="verify_phone">Verify Phone</string>
+    <string name="only_for_gender">Only for Men</string>
+    <string name="Create_account">Create Account</string>
+    <string name="india_ph_code">+91</string>
+    <string name="or_sign_up_with">or Sign up with</string>
+    <string name="cancel">Cancel</string>
+    <string name="favourites">Favourites</string>
+    <string name="logout">Logout</string>
+    <string name="home">Home</string>
+    <string name="property">property</string>
+    <string name="otp">OTP</string>
+    <string name="amount">Amount</string>
+    <string name="tax">Tax</string>
+    <string name="choose_your_city">Choose your city</string>
+    <string name="notification">Notification</string>
+    <string name="suggested">Suggested</string>
+    <string name="verify_number">Verify Number</string>
+    <string name="room_type">Room Type</string>
+    <string name="email_or_mobile"><font size="14">Email or mobile</font></string>
+    <string name="password_small_letters"><font size="14">password</font></string>
+    <string name="forgot_password">Forgot password ?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="or_sign_in_with">or Sign in with</string>
+    <string name="mobile_prefix">phone</string>
+    <string name="no_more_images">No more images</string>
+    <string name="don_t_have_an_account_create">Don\'t have an account? Create</string>
+
+    <string name="gender">Gender</string>
+    <string name="girls">Girls</string>
+    <string name="boys">Boys</string>
+
+    <string name="single">Single</string>
+    <string name="shared">Shared</string>
+    <string name="popular_areas">Popular Areas</string>
+    <string name="hi">Hi</string>
+    <string name="gurgaon">Gurgaon</string>
+    <string name="center_park">Center Park</string>
+    <string name="saket">Saket</string>
+    <string name="south_delhi">South Delhi</string>
+    <string name="hauz_khas">Hauz Khas</string>
+    <string name="apply">Apply</string>
+    <string name="reset">Reset</string>
+    <string name="check_internet">Please check internet connection to get properties.</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="explore_more_places">Explore more places</string>
+    <string name="date_val">07 Dec </string>
+    <string name="time_val">10:30 AM</string>
+    <string name="visitID">Visit ID</string>
+    <string name="go_to_my_account_page">Go to my account page</string>
+    <string name="booking_confirm">Great Choice!\nYour booking was successful</string>
+    <string name="bookingID">Booking ID</string>
+    <string name="selected_room">Selected Room</string>
+    <string name="private_rooms">Private Rooms</string>
+    <string name="text_move_in">When are you planning\nto move in</string>
+    <string name="fri_5_apr_2019">Fri 5 Apr 2019</string>
+    <string name="_11_30_am">11:30 AM</string>
+    <string name="room_rent">Room Rent</string>
+    <string name="_16500">₹ 16500</string>
+    <string name="_10000">₹ 10000</string>
+    <string name="deposit">Deposit</string>
+    <string name="_26_500"> <font fgcolor='#4a4a4a'>₹ </font> <font fgcolor='#3d6587'>26,500</font> </string>
+    <string name="total_amount">Total Amount</string>
+    <string name="pay_amp_book"><![CDATA[Pay & Book]]></string>
+
+</resources>
